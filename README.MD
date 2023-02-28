@@ -6,7 +6,7 @@ Utilizando a lógica para a programação do jogo Pong em JavaScript.
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Pongo em JavaScript**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
+| :label: Tecnologias | java, html, css
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
