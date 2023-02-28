@@ -1,6 +1,7 @@
-# Nome do meu projeto
+# PONG
 
-Rápida descrição do objetivo de fazer esse projeto
+Começando os estudos de Lógica de programação.
+Utilizando a lógica para a programação do jogo Pong em JavaScript.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -14,4 +15,4 @@ Rápida descrição do objetivo de fazer esse projeto
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Trabalhando com variáveis e funções e criando um jogo completo, com animações, controles, sons e placar.
