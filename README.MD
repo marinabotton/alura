@@ -1,17 +1,14 @@
 # Jogo Pong em JS
 
-Começando os estudos de Lógica de programação.
 Utilizando a lógica para a programação do jogo Pong em JavaScript.
 
-| :placard: Vitrine.Dev |     |
+| :sparkles: Nome     | **Jogo Pong em JavaScript**
 | -------------  | --- |
-| :sparkles: Nome        | **Jogo Pong em JavaScript**
 | :label: Tecnologias | java, html, css
 | :rocket: URL         | https://url-deploy.com.br
 | :fire: Desafio     | https://url-do-desafio.com.br
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+<a href="https://imgbox.com/RJVbK4h9" target="_blank"><img src="https://images2.imgbox.com/db/90/RJVbK4h9_o.png" alt="image host"/></a>
 
 ## Detalhes do projeto
 
