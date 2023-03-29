@@ -1,15 +1,11 @@
-# Jogo Pong em JS
+## Jogo Pong 🕹
 
-Utilizando a lógica para a programação do jogo Pong em JavaScript.
+* Neste curso, recriei um jogo clássico em 2 linguagens de programação diferentes: **Scratch** e **Javascript**. 
 
-| :sparkles: Nome     | **Jogo Pong em JavaScript**
-| -------------  | --- |
-| :label: Tecnologias | java, html, css
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+### Aprendizados: 📚
 
-<a href="https://imgbox.com/RJVbK4h9" target="_blank"><img src="https://images2.imgbox.com/db/90/RJVbK4h9_o.png" alt="image host"/></a>
+* Aprendi a trabalhar com animação, eventos, funções, variáveis e deixou o jogo bem lindo! 
 
-## Detalhes do projeto
+* Além disso, aprendi a importância de manter um código limpo e organizado.
 
-Trabalhando com variáveis e funções e criando um jogo completo, com animações, controles, sons e placar.
+![](https://github.com/marinabotton/alura_jogo_pong/blob/b4b55c53ff19917f0e95338342570bcfb17d570a/jogo.pong.gif)
